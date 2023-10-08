@@ -1,7 +1,7 @@
 import React from 'react';
 import { StatusBar } from 'expo-status-bar';
 import { StyleSheet, Text, SafeAreaView, View } from 'react-native';
-import IconText from '../components/IconText'
+
 import RowText from '../components/RowText';
 import { weatherType } from '../utilities/weatherType';
 import { MaterialCommunityIcons } from '@expo/vector-icons';
